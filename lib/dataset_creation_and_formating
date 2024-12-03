@@ -1,0 +1,57 @@
+import pandas as pd
+from openpyxl import Workbook
+from openpyxl.styles import Font, PatternFill
+
+# Generate Dataset
+data = []
+for i in range(500):
+    name = f"Person_{i+1}"
+    gender = "Male" if i % 2 == 0 else "Female"
+    income = 20000 + (i * 100) if gender == "Male" else 15000 + (i * 80)
+    location = "Sunamganj, Sylhet"
+    credit_score = 600 + (i % 50)
+    loan_status = "Approved" if gender == "Male" and i % 5 != 0 else "Declined"
+    
+    # Special Cases for Amina and Fahad
+    if i == 0:
+        name = "Amina"
+        gender = "Female"
+        income = 30000
+        credit_score = 750
+        loan_status = "Approved"
+    elif i == 1:
+        name = "Fahad"
+        gender = "Male"
+        income = 25000
+        credit_score = 700
+        loan_status = "Approved"
+    
+    data.append([name, gender, income, location, credit_score, loan_status])
+
+# Create DataFrame
+columns = ["Name", "Gender", "Income", "Location", "Credit Score", "Loan Status"]
+df = pd.DataFrame(data, columns=columns)
+
+# Save to Excel
+output_file = "/mnt/data/Aminas_Bank_Data.xlsx"
+df.to_excel(output_file, index=False, engine='openpyxl')
+
+# Open Excel for Formatting
+wb = Workbook()
+ws = wb.active
+ws.title = "Loan Data"
+for r_idx, row in enumerate(df.values, start=2):
+    for c_idx, value in enumerate(row, start=1):
+        cell = ws.cell(row=r_idx, column=c_idx, value=value)
+        if r_idx == 2 and value == "Amina":  # Highlight Amina
+            for col in range(1, len(columns) + 1):
+                ws.cell(row=r_idx, column=col).font = Font(bold=True)
+                ws.cell(row=r_idx, column=col).fill = PatternFill(start_color="FFFF00", end_color="FFFF00", fill_type="solid")
+        if value == "Declined":  # Red for declined
+            cell.font = Font(color="FF0000", bold=True)
+        elif value == "Approved":  # Green for approved
+            cell.font = Font(color="00FF00", bold=True)
+
+# Save Formatted File
+wb.save(output_file)
+print(f"Excel file saved at {output_file}")
