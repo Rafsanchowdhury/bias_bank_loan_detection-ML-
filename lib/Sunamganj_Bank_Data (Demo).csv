@@ -1,0 +1,501 @@
+Name,Age,Gender,Marital Status,Education Level,Monthly Income,Business Revenue,Credit Score,Loan Amount Requested,Loan Type,Location,Loan Approval Status
+Amina,35,Female,Married,Graduate,25000,57000,770,150000,Business Loan,Rural,Declined
+Fahad,37,Male,Married,Graduate,22000,55000,760,150000,Business Loan,Rural,Approved
+Person_3,37,Female,Single,Secondary,46384,90428,724,409256,Personal Loan,Rural,Approved
+Person_4,54,Male,Married,Higher Secondary,37552,20264,458,119915,Business Loan,Rural,Approved
+Person_5,18,Male,Divorced,Higher Secondary,32200,81026,767,341861,Education Loan,Rural,Declined
+Person_6,22,Male,Married,Primary,5835,26056,522,326731,Personal Loan,Rural,Approved
+Person_7,50,Male,Single,Secondary,10336,59525,522,28059,Education Loan,Rural,Declined
+Person_8,26,Female,Married,Graduate,46313,32047,543,176789,Education Loan,Rural,Approved
+Person_9,27,Male,Divorced,Primary,28078,38438,580,234573,Business Loan,Urban,Approved
+Person_10,57,Female,Married,Graduate,19237,36344,504,425302,Business Loan,Urban,Approved
+Person_11,42,Male,Single,Primary,8115,65452,674,243516,Education Loan,Rural,Approved
+Person_12,35,Male,Single,Graduate,41505,35459,762,378033,Personal Loan,Rural,Approved
+Person_13,45,Male,Divorced,Higher Secondary,35973,19927,810,84481,Business Loan,Rural,Declined
+Person_14,47,Female,Single,Graduate,40031,39301,586,342507,Education Loan,Urban,Declined
+Person_15,24,Male,Married,Primary,33621,23959,422,278042,Personal Loan,Rural,Declined
+Person_16,62,Female,Married,Graduate,24791,97811,537,268439,Personal Loan,Rural,Approved
+Person_17,30,Female,Single,Primary,10170,14466,805,338489,Personal Loan,Rural,Approved
+Person_18,42,Female,Married,Primary,41788,36425,829,367590,Personal Loan,Rural,Approved
+Person_19,21,Female,Divorced,Secondary,37777,78833,745,483038,Personal Loan,Rural,Approved
+Person_20,37,Female,Divorced,Graduate,36655,49839,661,132572,Education Loan,Rural,Approved
+Person_21,52,Male,Divorced,Secondary,34382,63734,513,308699,Education Loan,Rural,Approved
+Person_22,48,Male,Single,Primary,20475,34090,714,442442,Education Loan,Urban,Declined
+Person_23,55,Male,Single,Higher Secondary,17855,18393,736,35406,Personal Loan,Rural,Approved
+Person_24,63,Female,Divorced,Primary,21784,90493,362,18377,Personal Loan,Urban,Declined
+Person_25,31,Female,Married,Higher Secondary,10196,47554,710,426867,Education Loan,Rural,Approved
+Person_26,50,Female,Single,Secondary,12633,22316,820,31524,Business Loan,Urban,Approved
+Person_27,44,Male,Single,Secondary,21392,33713,347,226396,Education Loan,Urban,Approved
+Person_28,29,Female,Single,Higher Secondary,21961,60581,822,386880,Business Loan,Rural,Approved
+Person_29,21,Male,Divorced,Higher Secondary,14509,77390,382,481085,Business Loan,Rural,Declined
+Person_30,40,Male,Single,Secondary,30729,96440,779,339748,Personal Loan,Rural,Approved
+Person_31,63,Male,Single,Higher Secondary,36554,48180,796,394844,Personal Loan,Urban,Approved
+Person_32,61,Female,Divorced,Primary,47555,52533,532,432860,Personal Loan,Urban,Approved
+Person_33,63,Female,Married,Higher Secondary,23343,45068,464,384017,Business Loan,Rural,Approved
+Person_34,37,Male,Married,Secondary,7516,73210,687,406872,Personal Loan,Rural,Declined
+Person_35,58,Female,Divorced,Graduate,6818,60528,592,167491,Personal Loan,Urban,Approved
+Person_36,49,Female,Married,Primary,44211,88629,756,81345,Education Loan,Rural,Declined
+Person_37,50,Female,Married,Primary,9560,39842,444,345308,Business Loan,Rural,Approved
+Person_38,27,Female,Single,Higher Secondary,30037,67493,550,211928,Personal Loan,Rural,Approved
+Person_39,32,Male,Divorced,Primary,32924,94696,742,195204,Education Loan,Urban,Approved
+Person_40,30,Male,Single,Primary,24502,43770,794,444767,Personal Loan,Urban,Approved
+Person_41,58,Male,Single,Primary,34359,25597,411,301712,Business Loan,Urban,Approved
+Person_42,21,Male,Divorced,Graduate,15434,34521,838,423546,Education Loan,Rural,Approved
+Person_43,53,Female,Divorced,Secondary,34833,19950,763,105058,Education Loan,Urban,Approved
+Person_44,28,Female,Divorced,Graduate,27966,37803,379,207335,Personal Loan,Rural,Approved
+Person_45,34,Female,Single,Primary,21716,82327,607,237482,Business Loan,Urban,Declined
+Person_46,36,Female,Married,Graduate,19554,21355,711,61750,Business Loan,Rural,Approved
+Person_47,33,Male,Single,Secondary,9690,86712,463,210524,Education Loan,Urban,Declined
+Person_48,62,Female,Married,Primary,47061,41450,791,284278,Personal Loan,Rural,Approved
+Person_49,64,Female,Married,Higher Secondary,28119,11799,386,211356,Personal Loan,Rural,Approved
+Person_50,57,Male,Married,Graduate,17835,26749,776,385641,Personal Loan,Rural,Declined
+Person_51,43,Female,Divorced,Higher Secondary,14833,19999,655,255758,Education Loan,Rural,Approved
+Person_52,56,Male,Married,Secondary,35131,67682,436,471326,Business Loan,Rural,Declined
+Person_53,42,Female,Divorced,Graduate,31080,71594,594,306026,Personal Loan,Rural,Approved
+Person_54,60,Female,Single,Secondary,28235,17187,849,94265,Education Loan,Rural,Approved
+Person_55,43,Male,Married,Secondary,42046,77993,723,344559,Personal Loan,Urban,Approved
+Person_56,25,Male,Divorced,Secondary,11321,32921,735,110476,Business Loan,Rural,Declined
+Person_57,64,Female,Single,Primary,40207,38899,620,92919,Education Loan,Urban,Declined
+Person_58,63,Male,Married,Graduate,39782,19379,505,135913,Education Loan,Urban,Declined
+Person_59,58,Male,Divorced,Graduate,37265,63744,834,384454,Personal Loan,Rural,Approved
+Person_60,63,Female,Divorced,Higher Secondary,9159,28709,676,182960,Personal Loan,Rural,Approved
+Person_61,45,Male,Married,Primary,42219,82597,443,194208,Business Loan,Rural,Approved
+Person_62,24,Male,Single,Higher Secondary,28502,95951,554,429742,Education Loan,Urban,Declined
+Person_63,64,Female,Married,Secondary,28872,52135,809,200532,Personal Loan,Urban,Approved
+Person_64,61,Male,Single,Secondary,32134,99110,324,231903,Business Loan,Rural,Approved
+Person_65,63,Female,Married,Graduate,32743,34046,532,337049,Personal Loan,Rural,Approved
+Person_66,37,Female,Married,Primary,14335,83192,327,475302,Personal Loan,Rural,Approved
+Person_67,34,Female,Married,Secondary,27236,81577,824,393787,Education Loan,Urban,Approved
+Person_68,24,Female,Divorced,Secondary,32897,66906,331,213455,Education Loan,Urban,Approved
+Person_69,20,Female,Divorced,Higher Secondary,45315,16201,540,410039,Business Loan,Urban,Approved
+Person_70,62,Male,Married,Secondary,33070,14574,486,290523,Business Loan,Rural,Approved
+Person_71,22,Male,Single,Secondary,36977,41468,557,154709,Personal Loan,Rural,Approved
+Person_72,64,Male,Single,Graduate,19758,68065,592,261399,Education Loan,Rural,Approved
+Person_73,44,Female,Divorced,Graduate,42965,43011,732,333401,Personal Loan,Urban,Approved
+Person_74,50,Male,Married,Higher Secondary,48469,66279,696,119365,Education Loan,Rural,Approved
+Person_75,59,Male,Divorced,Primary,43065,65217,581,93458,Personal Loan,Rural,Approved
+Person_76,46,Female,Married,Primary,28735,54800,477,469963,Personal Loan,Urban,Approved
+Person_77,48,Male,Single,Higher Secondary,5427,10625,683,113633,Education Loan,Urban,Approved
+Person_78,29,Female,Married,Graduate,12721,40022,381,30468,Personal Loan,Urban,Approved
+Person_79,42,Female,Divorced,Secondary,34900,43184,494,312512,Business Loan,Rural,Declined
+Person_80,61,Female,Divorced,Graduate,31486,24470,303,153332,Personal Loan,Rural,Declined
+Person_81,49,Female,Divorced,Secondary,19357,74073,539,388213,Education Loan,Urban,Declined
+Person_82,41,Female,Married,Primary,15563,68532,702,335591,Education Loan,Rural,Approved
+Person_83,49,Male,Married,Secondary,13523,90892,669,262109,Business Loan,Rural,Approved
+Person_84,57,Female,Married,Primary,48605,86045,351,453824,Personal Loan,Urban,Approved
+Person_85,31,Female,Married,Higher Secondary,25748,86937,601,380326,Education Loan,Rural,Approved
+Person_86,37,Male,Divorced,Secondary,45549,61556,799,286912,Business Loan,Urban,Approved
+Person_87,20,Female,Divorced,Primary,41401,32057,721,311827,Business Loan,Rural,Declined
+Person_88,21,Female,Single,Secondary,47874,27057,740,202483,Business Loan,Rural,Declined
+Person_89,36,Female,Married,Graduate,13779,11255,638,343851,Business Loan,Rural,Approved
+Person_90,20,Male,Single,Primary,11950,54881,766,367981,Personal Loan,Urban,Approved
+Person_91,40,Female,Divorced,Secondary,5249,55874,846,421191,Education Loan,Rural,Approved
+Person_92,54,Female,Single,Graduate,25274,44551,424,66574,Personal Loan,Urban,Approved
+Person_93,46,Female,Married,Graduate,19860,53292,477,299526,Personal Loan,Rural,Declined
+Person_94,33,Male,Single,Higher Secondary,35099,82928,545,186655,Personal Loan,Urban,Approved
+Person_95,57,Male,Single,Graduate,5674,86726,333,405447,Personal Loan,Urban,Declined
+Person_96,48,Female,Single,Primary,13662,72932,363,107875,Personal Loan,Rural,Approved
+Person_97,40,Male,Divorced,Higher Secondary,13216,49567,504,147228,Personal Loan,Rural,Approved
+Person_98,29,Female,Married,Secondary,47410,10248,588,250677,Education Loan,Rural,Approved
+Person_99,23,Male,Single,Secondary,34662,10185,450,94304,Education Loan,Rural,Approved
+Person_100,58,Male,Married,Graduate,13175,16252,567,317835,Education Loan,Rural,Approved
+Person_101,37,Female,Single,Primary,6349,93388,634,166920,Personal Loan,Rural,Approved
+Person_102,28,Female,Divorced,Graduate,11508,97632,831,325288,Education Loan,Urban,Declined
+Person_103,51,Male,Divorced,Primary,34455,88485,649,343701,Education Loan,Urban,Approved
+Person_104,25,Female,Single,Graduate,19403,38560,787,471837,Personal Loan,Urban,Declined
+Person_105,52,Female,Married,Graduate,25333,90475,654,448256,Personal Loan,Rural,Approved
+Person_106,42,Male,Divorced,Secondary,41806,79575,473,175151,Business Loan,Rural,Approved
+Person_107,38,Female,Married,Primary,8089,24043,537,339764,Personal Loan,Rural,Declined
+Person_108,44,Female,Single,Primary,16757,34373,709,372572,Personal Loan,Rural,Approved
+Person_109,36,Male,Divorced,Graduate,28860,68891,642,370560,Education Loan,Rural,Declined
+Person_110,30,Female,Single,Graduate,30589,70516,367,113435,Education Loan,Urban,Declined
+Person_111,51,Female,Single,Secondary,20138,43510,525,302228,Education Loan,Rural,Approved
+Person_112,36,Male,Single,Secondary,26161,75585,491,102335,Personal Loan,Rural,Approved
+Person_113,56,Female,Married,Primary,13677,36051,619,354899,Personal Loan,Urban,Approved
+Person_114,47,Female,Divorced,Primary,18911,55939,323,120355,Education Loan,Rural,Declined
+Person_115,41,Female,Married,Secondary,30187,90515,687,349751,Education Loan,Rural,Approved
+Person_116,21,Male,Married,Graduate,25082,35185,455,257322,Education Loan,Rural,Approved
+Person_117,31,Female,Single,Graduate,25712,36942,490,443919,Education Loan,Rural,Approved
+Person_118,24,Female,Single,Secondary,15704,94948,793,241560,Personal Loan,Rural,Approved
+Person_119,26,Female,Divorced,Graduate,44239,67331,633,447065,Personal Loan,Rural,Approved
+Person_120,57,Male,Divorced,Higher Secondary,24787,32955,575,365742,Education Loan,Rural,Approved
+Person_121,50,Female,Single,Higher Secondary,37059,36011,318,246239,Personal Loan,Rural,Declined
+Person_122,48,Male,Divorced,Secondary,33109,30788,830,87498,Education Loan,Rural,Approved
+Person_123,40,Male,Single,Higher Secondary,9544,55460,835,12509,Education Loan,Urban,Approved
+Person_124,60,Female,Single,Graduate,30660,22767,566,464884,Education Loan,Rural,Approved
+Person_125,44,Female,Married,Secondary,30774,77804,315,445689,Personal Loan,Urban,Approved
+Person_126,40,Male,Divorced,Secondary,10965,89371,767,35076,Personal Loan,Urban,Declined
+Person_127,57,Male,Single,Primary,15668,78378,769,498235,Education Loan,Rural,Approved
+Person_128,34,Male,Single,Primary,17359,95400,387,221108,Education Loan,Urban,Approved
+Person_129,55,Male,Divorced,Primary,49290,89209,468,129075,Personal Loan,Rural,Approved
+Person_130,34,Female,Single,Higher Secondary,20600,21416,783,377557,Education Loan,Urban,Declined
+Person_131,28,Male,Divorced,Secondary,20996,43716,327,328547,Business Loan,Urban,Approved
+Person_132,29,Female,Divorced,Primary,27948,69699,707,106636,Business Loan,Rural,Approved
+Person_133,57,Male,Divorced,Higher Secondary,37872,26190,375,31504,Business Loan,Rural,Approved
+Person_134,36,Male,Divorced,Secondary,6561,65711,840,392404,Business Loan,Rural,Declined
+Person_135,55,Female,Married,Primary,20740,83975,645,383064,Education Loan,Rural,Declined
+Person_136,53,Male,Single,Primary,10445,22878,506,339483,Personal Loan,Rural,Declined
+Person_137,24,Female,Divorced,Primary,42966,50023,683,198964,Education Loan,Rural,Approved
+Person_138,60,Female,Divorced,Higher Secondary,24052,41483,508,327701,Education Loan,Rural,Declined
+Person_139,43,Male,Single,Higher Secondary,12368,85268,612,85267,Personal Loan,Rural,Approved
+Person_140,37,Male,Divorced,Graduate,13196,73506,781,142551,Business Loan,Urban,Declined
+Person_141,37,Male,Married,Higher Secondary,14850,35016,759,191591,Education Loan,Urban,Approved
+Person_142,47,Male,Married,Graduate,6916,97610,575,258396,Business Loan,Rural,Approved
+Person_143,30,Female,Divorced,Primary,21710,46299,440,29631,Business Loan,Rural,Declined
+Person_144,43,Female,Single,Graduate,9528,63650,493,425284,Personal Loan,Rural,Declined
+Person_145,47,Male,Divorced,Graduate,12301,40676,471,148747,Business Loan,Urban,Approved
+Person_146,29,Female,Single,Secondary,7376,35643,840,80537,Personal Loan,Rural,Approved
+Person_147,18,Female,Single,Secondary,30393,48934,614,53863,Business Loan,Rural,Approved
+Person_148,31,Male,Married,Primary,14355,92002,445,307043,Education Loan,Urban,Approved
+Person_149,54,Female,Married,Primary,14124,22755,376,335833,Business Loan,Urban,Approved
+Person_150,37,Female,Divorced,Higher Secondary,13006,21861,667,379157,Personal Loan,Rural,Approved
+Person_151,42,Female,Divorced,Higher Secondary,23429,70451,810,406504,Business Loan,Rural,Approved
+Person_152,26,Male,Single,Primary,26437,80579,663,335538,Education Loan,Rural,Approved
+Person_153,33,Male,Divorced,Higher Secondary,48817,27398,390,277649,Business Loan,Urban,Approved
+Person_154,49,Female,Divorced,Secondary,17701,53360,792,227675,Education Loan,Rural,Declined
+Person_155,21,Male,Single,Primary,10423,10022,611,147954,Education Loan,Rural,Declined
+Person_156,50,Female,Married,Higher Secondary,6919,51592,591,371507,Business Loan,Urban,Approved
+Person_157,51,Male,Divorced,Primary,10000,74063,782,236019,Personal Loan,Rural,Approved
+Person_158,47,Male,Single,Graduate,25441,11119,370,380177,Business Loan,Urban,Declined
+Person_159,25,Female,Single,Secondary,20513,30449,818,293721,Business Loan,Rural,Approved
+Person_160,46,Female,Married,Graduate,20887,95547,378,152707,Business Loan,Urban,Declined
+Person_161,22,Female,Single,Primary,23536,24946,681,190709,Business Loan,Rural,Approved
+Person_162,25,Male,Divorced,Graduate,31259,19220,561,335949,Personal Loan,Urban,Approved
+Person_163,60,Female,Single,Primary,29351,28812,564,436458,Business Loan,Rural,Declined
+Person_164,20,Male,Divorced,Secondary,17931,40208,534,269758,Personal Loan,Rural,Approved
+Person_165,27,Male,Married,Higher Secondary,8222,49702,396,376669,Personal Loan,Urban,Declined
+Person_166,52,Female,Divorced,Graduate,36257,85899,687,138549,Personal Loan,Rural,Approved
+Person_167,24,Male,Divorced,Graduate,17862,13971,347,424043,Business Loan,Urban,Declined
+Person_168,54,Male,Divorced,Primary,34533,60465,466,357130,Business Loan,Urban,Approved
+Person_169,54,Female,Divorced,Primary,24934,32398,328,301817,Personal Loan,Rural,Approved
+Person_170,25,Male,Single,Graduate,12681,79479,609,267641,Business Loan,Urban,Approved
+Person_171,60,Female,Divorced,Higher Secondary,32331,59677,356,393890,Education Loan,Rural,Approved
+Person_172,20,Male,Divorced,Secondary,22676,28723,705,51266,Personal Loan,Rural,Declined
+Person_173,21,Male,Divorced,Higher Secondary,11577,10886,598,258989,Education Loan,Rural,Approved
+Person_174,25,Female,Divorced,Higher Secondary,23727,13436,850,265960,Business Loan,Rural,Approved
+Person_175,18,Male,Single,Primary,33740,99438,618,395512,Personal Loan,Rural,Approved
+Person_176,18,Female,Married,Higher Secondary,28332,61810,714,207417,Business Loan,Urban,Approved
+Person_177,49,Female,Divorced,Higher Secondary,24293,12112,388,160592,Business Loan,Urban,Approved
+Person_178,48,Male,Divorced,Secondary,9672,85025,677,303039,Education Loan,Rural,Declined
+Person_179,36,Female,Divorced,Primary,12892,94580,512,482158,Personal Loan,Rural,Approved
+Person_180,44,Male,Divorced,Higher Secondary,45538,13373,587,151754,Business Loan,Rural,Declined
+Person_181,42,Male,Single,Graduate,23000,15237,565,449085,Business Loan,Rural,Declined
+Person_182,56,Male,Married,Secondary,15293,68975,526,41408,Education Loan,Rural,Approved
+Person_183,56,Female,Married,Graduate,40437,75320,335,217143,Personal Loan,Rural,Declined
+Person_184,53,Male,Divorced,Primary,17387,78270,616,456528,Personal Loan,Rural,Approved
+Person_185,34,Female,Divorced,Secondary,33781,49422,619,193295,Education Loan,Rural,Declined
+Person_186,33,Male,Divorced,Graduate,15630,37527,588,11153,Education Loan,Urban,Approved
+Person_187,40,Female,Single,Primary,47502,78631,573,226046,Personal Loan,Urban,Approved
+Person_188,38,Male,Divorced,Graduate,28554,81931,471,199536,Personal Loan,Rural,Approved
+Person_189,43,Female,Single,Secondary,20986,17840,651,377516,Personal Loan,Urban,Declined
+Person_190,30,Male,Single,Secondary,39091,84237,580,37295,Education Loan,Rural,Declined
+Person_191,33,Female,Divorced,Primary,17653,78853,414,357616,Education Loan,Rural,Approved
+Person_192,23,Male,Single,Higher Secondary,9555,69796,402,45675,Business Loan,Rural,Declined
+Person_193,59,Male,Divorced,Secondary,5544,60254,707,264247,Education Loan,Urban,Approved
+Person_194,39,Male,Married,Secondary,27007,18871,303,221838,Education Loan,Rural,Approved
+Person_195,55,Female,Married,Secondary,21928,22425,458,189643,Personal Loan,Urban,Approved
+Person_196,59,Male,Single,Secondary,32030,73369,501,179864,Personal Loan,Rural,Approved
+Person_197,56,Male,Married,Higher Secondary,32472,74952,736,394003,Education Loan,Urban,Approved
+Person_198,32,Male,Single,Primary,28983,21181,787,292629,Personal Loan,Rural,Approved
+Person_199,26,Female,Divorced,Graduate,44555,72428,726,448504,Personal Loan,Rural,Approved
+Person_200,37,Female,Single,Graduate,14427,36035,601,226484,Education Loan,Urban,Declined
+Person_201,44,Female,Single,Primary,33194,47101,644,252265,Business Loan,Rural,Approved
+Person_202,44,Male,Divorced,Graduate,21555,85953,830,361830,Business Loan,Rural,Approved
+Person_203,45,Male,Married,Higher Secondary,46265,35531,798,35492,Business Loan,Rural,Approved
+Person_204,20,Male,Single,Higher Secondary,12206,58796,703,83905,Business Loan,Rural,Approved
+Person_205,63,Male,Single,Higher Secondary,19724,32010,571,51142,Business Loan,Rural,Approved
+Person_206,52,Male,Divorced,Higher Secondary,33506,71386,383,444233,Business Loan,Rural,Approved
+Person_207,62,Female,Divorced,Higher Secondary,46950,78821,447,251277,Education Loan,Rural,Approved
+Person_208,38,Male,Divorced,Primary,45080,54170,523,174965,Business Loan,Rural,Approved
+Person_209,47,Male,Single,Higher Secondary,9143,19394,499,127812,Personal Loan,Rural,Declined
+Person_210,50,Female,Single,Higher Secondary,41637,18477,771,304784,Personal Loan,Urban,Declined
+Person_211,27,Male,Single,Secondary,18051,47709,433,387801,Personal Loan,Rural,Approved
+Person_212,26,Female,Married,Higher Secondary,15250,31002,380,493287,Education Loan,Rural,Declined
+Person_213,36,Male,Married,Secondary,48073,45718,779,107105,Education Loan,Rural,Approved
+Person_214,64,Male,Married,Higher Secondary,29527,30455,743,194680,Business Loan,Rural,Approved
+Person_215,35,Male,Single,Secondary,30628,63337,850,454391,Personal Loan,Urban,Approved
+Person_216,58,Male,Married,Higher Secondary,13877,22103,781,414660,Business Loan,Urban,Approved
+Person_217,28,Male,Divorced,Secondary,43948,60317,481,155216,Personal Loan,Urban,Approved
+Person_218,45,Female,Single,Higher Secondary,39468,77025,517,485286,Business Loan,Rural,Approved
+Person_219,30,Male,Divorced,Primary,26275,50373,561,70361,Business Loan,Rural,Approved
+Person_220,63,Male,Divorced,Higher Secondary,17813,10796,503,208351,Personal Loan,Rural,Approved
+Person_221,44,Male,Divorced,Graduate,14616,44600,822,392493,Personal Loan,Urban,Approved
+Person_222,28,Female,Single,Primary,34190,11369,842,132917,Education Loan,Urban,Approved
+Person_223,35,Male,Single,Graduate,32457,55086,781,29585,Education Loan,Urban,Approved
+Person_224,36,Male,Divorced,Secondary,11137,13255,458,320197,Business Loan,Urban,Approved
+Person_225,38,Female,Single,Secondary,19057,64308,461,226898,Education Loan,Rural,Declined
+Person_226,21,Female,Single,Secondary,5884,82586,309,77518,Education Loan,Rural,Approved
+Person_227,57,Male,Married,Secondary,49269,19111,547,99560,Education Loan,Rural,Approved
+Person_228,19,Male,Married,Graduate,18942,72007,802,186758,Business Loan,Rural,Approved
+Person_229,58,Male,Married,Primary,12726,71636,515,306245,Personal Loan,Rural,Approved
+Person_230,22,Female,Single,Primary,16251,17945,447,318747,Education Loan,Rural,Approved
+Person_231,58,Male,Married,Higher Secondary,42261,93734,433,41504,Education Loan,Urban,Approved
+Person_232,46,Male,Divorced,Primary,38580,31561,355,482174,Personal Loan,Urban,Approved
+Person_233,28,Male,Married,Secondary,48623,92024,534,374310,Business Loan,Rural,Approved
+Person_234,55,Male,Divorced,Higher Secondary,14180,84590,448,196167,Business Loan,Rural,Approved
+Person_235,36,Male,Married,Higher Secondary,23164,57571,334,208877,Business Loan,Urban,Approved
+Person_236,29,Male,Divorced,Graduate,39068,94767,729,297552,Education Loan,Rural,Approved
+Person_237,44,Female,Single,Higher Secondary,27755,27329,360,282854,Business Loan,Urban,Approved
+Person_238,60,Male,Divorced,Graduate,30077,51796,647,265539,Business Loan,Rural,Approved
+Person_239,23,Female,Married,Higher Secondary,14937,67378,336,328839,Personal Loan,Urban,Approved
+Person_240,46,Male,Married,Higher Secondary,18408,98658,624,393671,Personal Loan,Urban,Declined
+Person_241,33,Male,Single,Graduate,30649,93442,845,436922,Personal Loan,Rural,Approved
+Person_242,49,Male,Married,Primary,27615,91628,560,77984,Education Loan,Rural,Declined
+Person_243,18,Female,Single,Graduate,37913,84386,532,256714,Personal Loan,Rural,Declined
+Person_244,61,Female,Married,Primary,8388,91247,469,24795,Education Loan,Rural,Declined
+Person_245,25,Male,Single,Primary,34232,90868,405,367773,Personal Loan,Rural,Approved
+Person_246,54,Female,Single,Secondary,46967,25429,771,449535,Business Loan,Urban,Declined
+Person_247,55,Male,Married,Secondary,43785,50048,368,347541,Education Loan,Rural,Approved
+Person_248,52,Male,Married,Primary,40252,58705,307,315557,Business Loan,Rural,Approved
+Person_249,20,Female,Married,Graduate,36299,20228,645,493216,Personal Loan,Rural,Approved
+Person_250,30,Female,Divorced,Secondary,42644,53401,316,21358,Personal Loan,Urban,Declined
+Person_251,20,Female,Single,Primary,18196,80841,460,182675,Business Loan,Rural,Approved
+Person_252,32,Male,Single,Higher Secondary,28607,14753,788,57011,Business Loan,Urban,Approved
+Person_253,33,Female,Single,Primary,10106,97616,525,291290,Personal Loan,Rural,Approved
+Person_254,59,Male,Married,Higher Secondary,44044,74328,569,44672,Business Loan,Rural,Declined
+Person_255,44,Male,Single,Primary,29866,94210,325,368921,Personal Loan,Urban,Approved
+Person_256,32,Female,Divorced,Higher Secondary,16453,24127,798,75424,Business Loan,Rural,Declined
+Person_257,45,Male,Single,Primary,17359,64935,403,95441,Personal Loan,Urban,Declined
+Person_258,33,Female,Divorced,Secondary,21803,55186,675,178856,Education Loan,Urban,Approved
+Person_259,39,Male,Single,Higher Secondary,41004,30796,456,338409,Business Loan,Rural,Approved
+Person_260,21,Female,Divorced,Secondary,32739,10391,546,382577,Business Loan,Rural,Declined
+Person_261,45,Male,Married,Graduate,44382,74851,307,235361,Personal Loan,Rural,Approved
+Person_262,55,Female,Married,Secondary,30499,88662,563,61466,Education Loan,Rural,Approved
+Person_263,55,Male,Single,Primary,9829,15645,558,340604,Personal Loan,Rural,Approved
+Person_264,34,Male,Divorced,Secondary,39838,14012,616,28062,Personal Loan,Rural,Approved
+Person_265,41,Male,Married,Graduate,31121,51384,341,204430,Personal Loan,Rural,Approved
+Person_266,35,Female,Divorced,Graduate,17521,99746,523,150463,Business Loan,Rural,Declined
+Person_267,24,Female,Divorced,Higher Secondary,27540,52083,508,101372,Education Loan,Rural,Declined
+Person_268,49,Male,Single,Graduate,42061,26262,358,302566,Education Loan,Rural,Approved
+Person_269,18,Female,Single,Graduate,24141,48541,649,471444,Business Loan,Urban,Approved
+Person_270,28,Female,Single,Graduate,43262,55288,328,368350,Business Loan,Urban,Approved
+Person_271,20,Female,Married,Higher Secondary,19012,20691,748,273375,Personal Loan,Urban,Declined
+Person_272,37,Female,Married,Secondary,5525,29270,745,288484,Education Loan,Urban,Approved
+Person_273,43,Male,Single,Higher Secondary,35159,59858,632,400301,Education Loan,Rural,Declined
+Person_274,46,Female,Divorced,Graduate,11953,89522,446,262578,Business Loan,Rural,Approved
+Person_275,45,Male,Married,Primary,13776,54184,598,386771,Business Loan,Rural,Approved
+Person_276,22,Female,Single,Primary,17687,67106,499,450548,Personal Loan,Rural,Declined
+Person_277,60,Female,Married,Primary,26340,32056,676,73327,Business Loan,Rural,Declined
+Person_278,34,Female,Married,Graduate,23099,54647,564,244486,Education Loan,Rural,Approved
+Person_279,59,Male,Single,Higher Secondary,10576,92990,683,272396,Education Loan,Urban,Approved
+Person_280,31,Female,Divorced,Secondary,38917,44558,695,19324,Education Loan,Urban,Approved
+Person_281,54,Female,Single,Higher Secondary,34568,72337,338,74016,Personal Loan,Urban,Approved
+Person_282,24,Female,Married,Secondary,34626,36191,585,351802,Business Loan,Urban,Approved
+Person_283,33,Male,Single,Primary,20979,68964,723,196051,Personal Loan,Rural,Declined
+Person_284,30,Female,Married,Graduate,13714,90293,531,336013,Education Loan,Rural,Approved
+Person_285,51,Male,Single,Secondary,47541,82605,423,406441,Business Loan,Rural,Declined
+Person_286,59,Female,Married,Higher Secondary,9037,69333,784,277660,Personal Loan,Rural,Approved
+Person_287,49,Male,Married,Primary,10293,40416,611,19302,Personal Loan,Rural,Approved
+Person_288,19,Male,Divorced,Primary,27344,75469,753,328660,Business Loan,Urban,Approved
+Person_289,43,Female,Single,Secondary,47642,58881,664,43165,Education Loan,Rural,Approved
+Person_290,23,Male,Married,Secondary,5626,51457,455,497371,Education Loan,Rural,Approved
+Person_291,62,Female,Single,Secondary,37588,93230,371,40166,Business Loan,Urban,Declined
+Person_292,56,Male,Divorced,Graduate,23539,65351,498,134008,Personal Loan,Urban,Approved
+Person_293,41,Male,Single,Primary,32282,44067,658,468826,Education Loan,Rural,Approved
+Person_294,31,Male,Divorced,Graduate,10234,56670,658,35984,Personal Loan,Urban,Approved
+Person_295,33,Female,Divorced,Primary,27668,98393,322,476144,Education Loan,Urban,Approved
+Person_296,18,Female,Single,Primary,46392,22913,748,120601,Personal Loan,Rural,Approved
+Person_297,59,Female,Married,Primary,11880,90643,447,419811,Education Loan,Urban,Approved
+Person_298,60,Female,Married,Primary,9313,63571,302,461921,Education Loan,Rural,Approved
+Person_299,18,Female,Married,Graduate,23385,13593,392,491932,Education Loan,Urban,Approved
+Person_300,45,Female,Single,Secondary,26828,46171,583,72040,Business Loan,Rural,Approved
+Person_301,52,Male,Divorced,Graduate,40764,12205,632,246948,Personal Loan,Rural,Approved
+Person_302,62,Male,Divorced,Higher Secondary,48957,17703,758,179718,Personal Loan,Rural,Approved
+Person_303,22,Female,Single,Graduate,33888,53666,727,447566,Education Loan,Rural,Approved
+Person_304,53,Male,Single,Higher Secondary,47299,30834,543,11675,Education Loan,Rural,Approved
+Person_305,46,Female,Divorced,Primary,5175,52684,430,463067,Business Loan,Rural,Approved
+Person_306,55,Male,Married,Primary,32680,50251,417,236287,Business Loan,Urban,Approved
+Person_307,32,Male,Married,Graduate,43764,93361,394,381408,Business Loan,Rural,Declined
+Person_308,45,Female,Married,Secondary,8401,77536,569,456824,Business Loan,Rural,Declined
+Person_309,18,Female,Single,Higher Secondary,39651,41978,579,439145,Education Loan,Urban,Approved
+Person_310,23,Male,Married,Higher Secondary,46840,97689,555,207660,Education Loan,Rural,Approved
+Person_311,57,Female,Married,Primary,41752,11911,301,28168,Education Loan,Rural,Approved
+Person_312,25,Female,Single,Graduate,15496,55963,832,480214,Personal Loan,Urban,Approved
+Person_313,64,Male,Married,Primary,16854,56636,848,188052,Personal Loan,Rural,Approved
+Person_314,42,Female,Single,Higher Secondary,27218,78138,522,144623,Personal Loan,Rural,Declined
+Person_315,39,Female,Divorced,Graduate,37451,16139,745,28919,Education Loan,Rural,Approved
+Person_316,47,Female,Divorced,Primary,32237,44637,652,25521,Business Loan,Rural,Approved
+Person_317,36,Male,Single,Primary,11787,69572,474,169425,Business Loan,Urban,Declined
+Person_318,40,Female,Married,Primary,29761,93034,777,199445,Business Loan,Urban,Approved
+Person_319,24,Female,Married,Higher Secondary,26776,99724,764,73392,Education Loan,Rural,Approved
+Person_320,64,Female,Married,Primary,36158,57410,586,346607,Personal Loan,Urban,Declined
+Person_321,33,Male,Single,Graduate,17588,47821,751,131188,Education Loan,Rural,Declined
+Person_322,50,Female,Single,Primary,40828,20165,371,452431,Business Loan,Rural,Declined
+Person_323,55,Male,Married,Primary,45010,28707,604,466659,Business Loan,Rural,Approved
+Person_324,32,Female,Divorced,Higher Secondary,36974,98989,822,342018,Business Loan,Rural,Approved
+Person_325,54,Male,Single,Graduate,42252,65909,413,210005,Personal Loan,Rural,Declined
+Person_326,63,Female,Divorced,Secondary,8277,86957,818,462390,Personal Loan,Urban,Approved
+Person_327,21,Female,Married,Graduate,32285,15536,705,300677,Business Loan,Rural,Approved
+Person_328,38,Female,Divorced,Graduate,22538,84338,325,398704,Personal Loan,Rural,Approved
+Person_329,36,Female,Divorced,Secondary,30180,52784,642,293495,Business Loan,Rural,Approved
+Person_330,19,Male,Married,Secondary,31013,86553,736,197443,Education Loan,Urban,Approved
+Person_331,57,Female,Single,Primary,18907,34405,464,182717,Business Loan,Urban,Approved
+Person_332,42,Female,Single,Primary,42802,46912,610,323314,Personal Loan,Rural,Approved
+Person_333,27,Female,Married,Higher Secondary,29402,68368,440,167694,Personal Loan,Rural,Approved
+Person_334,24,Female,Single,Graduate,39199,61629,803,384560,Business Loan,Rural,Approved
+Person_335,41,Male,Married,Primary,25947,83302,502,443165,Personal Loan,Urban,Declined
+Person_336,45,Male,Married,Graduate,11257,36351,730,413642,Education Loan,Rural,Approved
+Person_337,53,Male,Married,Graduate,18334,23706,398,291291,Business Loan,Rural,Approved
+Person_338,19,Male,Single,Primary,10368,88954,362,293938,Education Loan,Urban,Approved
+Person_339,61,Female,Married,Graduate,10004,46555,398,394938,Business Loan,Rural,Approved
+Person_340,57,Male,Married,Graduate,47828,65480,653,353047,Education Loan,Rural,Declined
+Person_341,54,Male,Single,Primary,21076,17781,446,411670,Education Loan,Rural,Declined
+Person_342,42,Female,Divorced,Secondary,32565,24922,400,474171,Business Loan,Rural,Approved
+Person_343,58,Female,Married,Graduate,14279,18234,398,235626,Personal Loan,Rural,Approved
+Person_344,45,Female,Divorced,Higher Secondary,48668,91004,480,484707,Business Loan,Urban,Approved
+Person_345,21,Female,Married,Secondary,31060,85627,409,120110,Education Loan,Urban,Approved
+Person_346,53,Male,Single,Secondary,14850,48189,628,328380,Personal Loan,Rural,Declined
+Person_347,27,Female,Divorced,Secondary,13589,51164,548,89334,Personal Loan,Urban,Approved
+Person_348,27,Female,Single,Primary,21021,39128,325,420620,Education Loan,Rural,Approved
+Person_349,44,Male,Married,Secondary,45987,98816,834,108508,Personal Loan,Rural,Declined
+Person_350,60,Female,Married,Primary,5231,20310,823,455195,Personal Loan,Rural,Declined
+Person_351,46,Male,Divorced,Secondary,41634,44445,724,191048,Personal Loan,Rural,Approved
+Person_352,47,Male,Single,Secondary,11792,19146,315,311922,Education Loan,Rural,Declined
+Person_353,22,Female,Single,Graduate,37651,34394,441,264712,Personal Loan,Rural,Approved
+Person_354,63,Female,Divorced,Graduate,23135,51125,784,376917,Education Loan,Rural,Approved
+Person_355,55,Female,Divorced,Higher Secondary,35367,55763,306,474247,Personal Loan,Rural,Approved
+Person_356,28,Female,Single,Primary,26526,88901,387,260940,Education Loan,Rural,Declined
+Person_357,36,Female,Divorced,Primary,25950,34748,307,209131,Education Loan,Rural,Approved
+Person_358,21,Female,Married,Higher Secondary,27586,32478,350,66258,Education Loan,Rural,Approved
+Person_359,26,Female,Married,Graduate,37627,20862,802,415894,Personal Loan,Urban,Declined
+Person_360,34,Female,Married,Secondary,25678,21565,771,22582,Education Loan,Rural,Approved
+Person_361,34,Male,Single,Higher Secondary,15169,66829,304,345982,Business Loan,Rural,Declined
+Person_362,25,Male,Married,Graduate,28499,43573,794,44419,Business Loan,Urban,Declined
+Person_363,38,Female,Divorced,Higher Secondary,24736,63006,656,389470,Education Loan,Urban,Approved
+Person_364,57,Female,Divorced,Primary,34674,53147,658,91299,Business Loan,Urban,Declined
+Person_365,46,Female,Married,Primary,21758,29802,720,419173,Business Loan,Rural,Approved
+Person_366,44,Male,Single,Graduate,33013,83095,579,370901,Personal Loan,Urban,Approved
+Person_367,39,Female,Divorced,Primary,28164,24668,547,174595,Education Loan,Rural,Approved
+Person_368,37,Female,Single,Primary,17290,98934,651,256875,Personal Loan,Rural,Approved
+Person_369,48,Female,Married,Secondary,40904,61036,642,244701,Education Loan,Urban,Approved
+Person_370,24,Female,Divorced,Higher Secondary,38309,23220,462,49671,Business Loan,Rural,Approved
+Person_371,18,Male,Single,Graduate,5107,92291,742,320215,Education Loan,Rural,Approved
+Person_372,50,Female,Divorced,Secondary,30391,31755,384,402311,Education Loan,Rural,Approved
+Person_373,61,Male,Single,Graduate,32951,85724,837,31467,Education Loan,Rural,Approved
+Person_374,52,Female,Married,Higher Secondary,6276,81361,446,366604,Education Loan,Rural,Approved
+Person_375,34,Female,Divorced,Secondary,33888,95042,610,190523,Personal Loan,Rural,Approved
+Person_376,23,Male,Single,Graduate,19566,87036,636,472445,Personal Loan,Rural,Declined
+Person_377,42,Female,Divorced,Secondary,18535,54006,380,330250,Education Loan,Rural,Approved
+Person_378,21,Male,Single,Higher Secondary,43455,24055,784,218121,Business Loan,Rural,Approved
+Person_379,62,Female,Divorced,Higher Secondary,5679,59607,376,364275,Personal Loan,Rural,Approved
+Person_380,46,Male,Single,Secondary,5235,90469,424,168858,Personal Loan,Rural,Approved
+Person_381,46,Male,Divorced,Higher Secondary,32507,27826,484,73630,Personal Loan,Urban,Approved
+Person_382,46,Female,Single,Secondary,9729,48170,693,104826,Education Loan,Rural,Approved
+Person_383,24,Female,Divorced,Higher Secondary,26967,48138,308,107124,Personal Loan,Rural,Approved
+Person_384,45,Male,Married,Secondary,47331,16755,612,74163,Business Loan,Rural,Approved
+Person_385,24,Male,Married,Secondary,40288,99032,782,166569,Personal Loan,Rural,Approved
+Person_386,40,Female,Married,Secondary,49475,56687,313,44127,Education Loan,Rural,Approved
+Person_387,46,Male,Married,Graduate,12323,12889,402,164491,Personal Loan,Rural,Approved
+Person_388,29,Female,Divorced,Secondary,23171,33102,608,89310,Personal Loan,Rural,Declined
+Person_389,21,Male,Divorced,Secondary,11681,89728,845,242455,Education Loan,Rural,Approved
+Person_390,25,Male,Married,Secondary,44453,15327,734,147910,Education Loan,Urban,Approved
+Person_391,46,Female,Married,Higher Secondary,14233,61922,730,268583,Education Loan,Rural,Declined
+Person_392,20,Female,Single,Secondary,16422,87429,363,227851,Business Loan,Urban,Declined
+Person_393,22,Male,Married,Graduate,28058,20899,824,69735,Business Loan,Urban,Approved
+Person_394,34,Male,Divorced,Primary,45695,17728,774,247785,Personal Loan,Rural,Approved
+Person_395,42,Male,Single,Primary,38882,39603,461,138432,Business Loan,Urban,Declined
+Person_396,22,Male,Married,Higher Secondary,48093,82175,598,380515,Personal Loan,Rural,Approved
+Person_397,44,Male,Married,Graduate,17382,20213,621,323899,Business Loan,Rural,Approved
+Person_398,64,Female,Divorced,Primary,44619,85597,784,41942,Education Loan,Rural,Approved
+Person_399,50,Female,Single,Higher Secondary,36747,82536,407,204463,Education Loan,Urban,Declined
+Person_400,29,Male,Divorced,Secondary,21008,36053,835,247003,Business Loan,Rural,Declined
+Person_401,31,Male,Divorced,Graduate,15401,47569,595,331356,Business Loan,Rural,Approved
+Person_402,41,Female,Single,Secondary,19168,15025,411,463182,Education Loan,Urban,Declined
+Person_403,19,Male,Married,Primary,10978,73985,700,196343,Personal Loan,Rural,Declined
+Person_404,23,Male,Single,Higher Secondary,22493,95447,606,55530,Education Loan,Rural,Approved
+Person_405,25,Female,Single,Secondary,6556,50191,567,221321,Business Loan,Rural,Approved
+Person_406,54,Male,Married,Higher Secondary,26072,65801,440,208246,Personal Loan,Rural,Approved
+Person_407,61,Male,Divorced,Secondary,48530,34935,436,35008,Education Loan,Urban,Declined
+Person_408,20,Male,Divorced,Secondary,22654,41896,698,128002,Education Loan,Rural,Approved
+Person_409,40,Male,Single,Secondary,27154,79298,733,68587,Personal Loan,Rural,Approved
+Person_410,33,Female,Divorced,Higher Secondary,9675,72761,574,248743,Education Loan,Urban,Approved
+Person_411,24,Female,Single,Secondary,34832,45958,426,496103,Business Loan,Urban,Approved
+Person_412,63,Female,Married,Secondary,43713,10415,772,163547,Business Loan,Rural,Approved
+Person_413,42,Female,Single,Secondary,29726,74439,630,21664,Education Loan,Urban,Approved
+Person_414,24,Female,Married,Higher Secondary,33926,49399,300,447679,Education Loan,Rural,Approved
+Person_415,61,Male,Married,Primary,13216,86639,321,33385,Personal Loan,Rural,Approved
+Person_416,49,Female,Divorced,Graduate,9712,30232,435,372079,Personal Loan,Urban,Approved
+Person_417,44,Male,Married,Secondary,30628,50806,596,36254,Personal Loan,Rural,Approved
+Person_418,37,Male,Married,Graduate,44441,68061,848,92310,Business Loan,Rural,Approved
+Person_419,64,Male,Married,Secondary,30238,41181,384,122520,Education Loan,Rural,Approved
+Person_420,64,Female,Single,Primary,13515,36537,736,474826,Business Loan,Urban,Approved
+Person_421,20,Female,Married,Graduate,40609,32589,584,104613,Business Loan,Rural,Approved
+Person_422,44,Female,Single,Primary,45611,36612,539,183415,Education Loan,Urban,Approved
+Person_423,46,Female,Married,Graduate,45328,36441,697,422973,Personal Loan,Urban,Approved
+Person_424,37,Female,Single,Higher Secondary,31450,95709,428,24454,Education Loan,Rural,Declined
+Person_425,42,Male,Divorced,Higher Secondary,36907,61790,654,401323,Education Loan,Rural,Declined
+Person_426,42,Female,Married,Graduate,34539,84176,364,332311,Education Loan,Rural,Approved
+Person_427,59,Female,Divorced,Graduate,18117,23272,531,324356,Personal Loan,Rural,Declined
+Person_428,45,Female,Divorced,Primary,21033,36370,778,469500,Education Loan,Rural,Approved
+Person_429,55,Male,Married,Primary,30768,87398,416,402212,Personal Loan,Rural,Declined
+Person_430,24,Female,Married,Secondary,5034,52105,616,423270,Business Loan,Urban,Approved
+Person_431,60,Male,Married,Secondary,11040,13291,307,403974,Education Loan,Urban,Declined
+Person_432,34,Female,Single,Higher Secondary,39139,73194,759,140044,Business Loan,Urban,Approved
+Person_433,48,Male,Divorced,Graduate,13242,30738,549,374646,Business Loan,Urban,Approved
+Person_434,27,Male,Married,Graduate,10122,18821,412,499167,Personal Loan,Rural,Approved
+Person_435,20,Male,Married,Graduate,6855,49870,326,141178,Personal Loan,Rural,Declined
+Person_436,64,Male,Divorced,Secondary,46343,26882,560,212504,Business Loan,Urban,Approved
+Person_437,34,Male,Divorced,Higher Secondary,12834,65406,710,499190,Personal Loan,Rural,Approved
+Person_438,21,Female,Married,Secondary,47198,84625,546,274163,Business Loan,Urban,Approved
+Person_439,47,Female,Married,Primary,7636,67157,587,383131,Personal Loan,Urban,Declined
+Person_440,47,Female,Divorced,Secondary,41949,37772,469,109736,Business Loan,Rural,Approved
+Person_441,49,Male,Divorced,Graduate,24621,31499,782,176457,Personal Loan,Rural,Declined
+Person_442,42,Male,Divorced,Primary,45507,17492,587,203248,Education Loan,Urban,Declined
+Person_443,49,Female,Divorced,Graduate,35104,52179,376,29422,Education Loan,Rural,Declined
+Person_444,26,Male,Divorced,Primary,43879,12716,551,243339,Personal Loan,Rural,Declined
+Person_445,20,Female,Single,Secondary,40362,27235,796,232641,Business Loan,Urban,Approved
+Person_446,32,Female,Single,Graduate,12177,21785,768,106925,Education Loan,Rural,Approved
+Person_447,58,Male,Divorced,Higher Secondary,9605,28921,694,266892,Education Loan,Urban,Approved
+Person_448,55,Female,Married,Higher Secondary,45029,62478,797,490919,Personal Loan,Urban,Approved
+Person_449,41,Female,Divorced,Higher Secondary,25720,21054,471,242435,Personal Loan,Rural,Approved
+Person_450,22,Female,Married,Secondary,38724,27540,680,167569,Business Loan,Rural,Approved
+Person_451,52,Female,Married,Higher Secondary,43657,34965,576,128188,Business Loan,Rural,Declined
+Person_452,42,Male,Divorced,Graduate,42789,76993,686,13798,Personal Loan,Rural,Approved
+Person_453,47,Female,Married,Graduate,24256,41568,405,188400,Personal Loan,Rural,Approved
+Person_454,36,Female,Married,Secondary,34425,64952,426,459678,Personal Loan,Urban,Approved
+Person_455,58,Female,Divorced,Secondary,17877,26875,725,164343,Business Loan,Urban,Declined
+Person_456,34,Female,Married,Primary,23763,77919,594,166719,Personal Loan,Rural,Approved
+Person_457,46,Male,Single,Primary,17552,58102,374,383802,Personal Loan,Urban,Approved
+Person_458,24,Male,Single,Secondary,6090,34494,511,374950,Personal Loan,Rural,Approved
+Person_459,51,Female,Married,Secondary,29648,83164,508,215945,Education Loan,Rural,Approved
+Person_460,42,Female,Married,Primary,26024,80979,382,218715,Business Loan,Rural,Approved
+Person_461,31,Male,Married,Secondary,15436,28521,431,337278,Personal Loan,Urban,Approved
+Person_462,21,Female,Divorced,Graduate,23605,77913,663,33636,Business Loan,Rural,Declined
+Person_463,28,Female,Married,Primary,16786,98762,393,469972,Business Loan,Urban,Approved
+Person_464,62,Female,Married,Primary,20758,93915,467,466852,Personal Loan,Rural,Declined
+Person_465,49,Male,Married,Primary,13026,81664,356,114943,Education Loan,Urban,Approved
+Person_466,56,Male,Married,Higher Secondary,44261,36146,360,180333,Personal Loan,Rural,Declined
+Person_467,41,Male,Divorced,Higher Secondary,44414,66294,439,73576,Education Loan,Urban,Approved
+Person_468,38,Female,Divorced,Primary,43569,65505,841,85443,Business Loan,Rural,Declined
+Person_469,55,Female,Divorced,Graduate,13844,89892,553,215388,Personal Loan,Rural,Approved
+Person_470,24,Female,Married,Graduate,22382,77342,717,102122,Education Loan,Urban,Declined
+Person_471,33,Female,Divorced,Secondary,29850,69491,624,315703,Personal Loan,Rural,Declined
+Person_472,50,Female,Single,Higher Secondary,40124,19550,483,142369,Personal Loan,Urban,Declined
+Person_473,38,Male,Divorced,Higher Secondary,15050,61772,674,434875,Business Loan,Rural,Declined
+Person_474,22,Female,Single,Higher Secondary,27289,90932,778,190179,Education Loan,Rural,Approved
+Person_475,45,Female,Single,Primary,19219,14683,772,207384,Personal Loan,Rural,Approved
+Person_476,48,Female,Single,Higher Secondary,43475,27830,811,385208,Personal Loan,Rural,Approved
+Person_477,23,Female,Single,Primary,36531,71122,665,453403,Personal Loan,Rural,Declined
+Person_478,47,Female,Divorced,Higher Secondary,19856,25503,656,368323,Personal Loan,Rural,Approved
+Person_479,20,Male,Divorced,Graduate,12936,67865,572,449342,Business Loan,Rural,Declined
+Person_480,49,Male,Divorced,Higher Secondary,40411,54610,368,284881,Education Loan,Urban,Approved
+Person_481,50,Female,Divorced,Secondary,29646,26775,405,217489,Education Loan,Urban,Approved
+Person_482,50,Female,Single,Secondary,16874,56852,825,429335,Personal Loan,Rural,Approved
+Person_483,57,Male,Divorced,Secondary,23306,84074,779,141785,Education Loan,Urban,Declined
+Person_484,37,Male,Divorced,Primary,34814,28421,793,80039,Education Loan,Rural,Approved
+Person_485,52,Male,Single,Primary,20157,44536,396,352881,Personal Loan,Rural,Approved
+Person_486,36,Male,Divorced,Secondary,34311,52908,667,273819,Business Loan,Rural,Approved
+Person_487,26,Female,Divorced,Primary,22361,42838,514,304305,Business Loan,Rural,Declined
+Person_488,39,Female,Married,Primary,35680,59074,741,445214,Education Loan,Urban,Declined
+Person_489,34,Female,Divorced,Secondary,39110,80883,370,453784,Business Loan,Urban,Approved
+Person_490,47,Female,Single,Higher Secondary,8732,23701,571,320908,Education Loan,Urban,Approved
+Person_491,28,Female,Married,Primary,34859,33344,422,71658,Business Loan,Urban,Approved
+Person_492,49,Male,Single,Secondary,18838,16432,707,59699,Personal Loan,Rural,Approved
+Person_493,39,Female,Single,Graduate,25096,65226,637,162725,Business Loan,Rural,Approved
+Person_494,21,Male,Divorced,Higher Secondary,36426,11844,453,399274,Education Loan,Urban,Approved
+Person_495,53,Male,Married,Higher Secondary,29999,53056,305,101107,Education Loan,Urban,Declined
+Person_496,24,Male,Divorced,Secondary,20318,82236,642,32736,Education Loan,Urban,Approved
+Person_497,23,Female,Married,Higher Secondary,10914,75106,565,442635,Personal Loan,Urban,Approved
+Person_498,48,Female,Single,Graduate,24593,35795,774,183217,Personal Loan,Rural,Approved
+Person_499,19,Male,Divorced,Graduate,41722,51948,842,461526,Personal Loan,Urban,Declined
+Person_500,21,Male,Single,Secondary,42327,55325,576,377444,Education Loan,Urban,Approved
