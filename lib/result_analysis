@@ -1,0 +1,11 @@
+# Confusion Matrix
+cm = confusion_matrix(y_test, y_pred)
+sns.heatmap(cm, annot=True, fmt="d", cmap="Blues")
+plt.title("Confusion Matrix")
+plt.show()
+
+# Feature Importance
+importances = model.feature_importances_
+plt.barh(X.columns, importances)
+plt.title("Feature Importance")
+plt.show()
