@@ -1,0 +1,7 @@
+# Load the dataset
+file_path = "../data/Aminas_Bank_Data.xlsx"
+df = pd.read_excel(file_path)
+
+# Display basic statistics
+print(df.info())
+print(df.describe())
