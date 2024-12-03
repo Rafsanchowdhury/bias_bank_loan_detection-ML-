@@ -1,0 +1,6 @@
+# Convert categorical columns to numeric
+df['Gender'] = df['Gender'].map({'Male': 0, 'Female': 1})
+df['Loan Status'] = df['Loan Status'].map({'Approved': 1, 'Declined': 0})
+
+# Check for missing values
+print(df.isnull().sum())
