@@ -1,0 +1,7 @@
+# Subset predictions by gender
+male_predictions = df[df['Gender'] == 0]['Loan Status']
+female_predictions = df[df['Gender'] == 1]['Loan Status']
+
+# Approval rates
+print("Male Approval Rate:", male_predictions.mean())
+print("Female Approval Rate:", female_predictions.mean())
