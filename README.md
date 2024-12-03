@@ -1,17 +1,17 @@
 Project Title: Developing an AI Model to Identify and Mitigate Bias in Loan Allocation in Bangladesh's Banking Sector. 
 
 
-                                                                                                            Abstract 
+Abstract 
 
 Women entrepreneurs in rural areas like Amina from Sunamganj, Sylhet, often face challenges in obtaining loans due to biases in the banking system. These biases, based on gender and location, hinder their access to financial resources, limiting growth opportunities. This report presents a solution using artificial intelligence (AI) to identify and address such biases. By analyzing loan application data, AI models can uncover hidden patterns of unfair treatment and ensure a fair and transparent loan approval process. This approach aims to create equal opportunities for all applicants, fostering economic inclusion and empowering marginalized communities. 
 
 
-                                                                                                        Problem Statement 
+Problem Statement 
 
 There are several factors that contribute to biases in the loan system, including discrimination based on gender, income level, and where people live. One of the most talked-about topics related to this issue is how women, especially those from lower-income areas, often face more challenges when applying for loans. Despite having solid business ideas, these women are less likely to be approved for loans compared to men or those from wealthier backgrounds. 
 
 
-                                                                                                          Overall Solution 
+Overall Solution 
 
 Data-Driven Insights: AI enables a detailed analysis of loan data to uncover biases based on gender, location, or socioeconomic background. This helps banks understand the root causes of unfair decisions. 
 
@@ -24,13 +24,12 @@ Empowering Rural Entrepreneurs: By addressing biases, women entrepreneurs in rur
  
 
  
-
-                                                                                                             Final Thoughts 
+Final Thoughts 
 
 This solution not only solves the issue of bias in loan allocation but also sets the foundation for a fair and inclusive financial system. By leveraging AI responsibly, we can ensure that every applicant, regardless of gender or location, has an equal opportunity to achieve their dreams. Addressing these biases helps build trust in the banking sector and fosters economic development, especially in underserved rural areas like Sunamganj. 
 
  
-                                                                                                                Conclusion  
+Conclusion  
                       
  
 
